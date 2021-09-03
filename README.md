@@ -1,4 +1,4 @@
-A small sample Counter app, which I created while doing a Live Coding Challenge, built in **React** and **TypeScript** using **React Hooks**, **CSS**, Babel, Webpack, etc. Scope of this App:
+A small sample Counter app, which I created while doing a Live Coding Challenge, built in **React** and **TypeScript** using **React Hooks**, **CSS**, Babel, Webpack, etc. Scope of this App: 
 - A **Counter** component.
 - Maintaining the existing count in state and **Viewing** it on the top.
 - **Adding** and **Subtracting** to the current count using the steps of **1** and **5**.
